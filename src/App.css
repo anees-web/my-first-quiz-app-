@@ -1,0 +1,15 @@
+.bg{
+  background-color: #695284 ;
+  min-height: 100vh;
+}
+
+.al{
+  width: 18rem;
+  margin-left: 480px;
+  
+}
+
+.score{
+  margin-left: 480px;
+  margin-top: 20px;
+}
